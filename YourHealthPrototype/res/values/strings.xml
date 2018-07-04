@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MockUpUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logIn">Log In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="firstnameLastname">First name Last name</string>
+    <string name="username">Username</string>
+    <string name="careCard">CareCard Numbe</string>
+    <string name="CareCardNumber">CareCard Number</string>
+    <string name="pass">Password</string>
+    <string name="rePass">Re-enter Password</string>
+    <string name="enterFirstLast">Please enter First and Last name</string>
+    <string name="enterUsername">Please enter a username</string>
+    <string name="enterCareCard">Please enter your care card number</string>
+    <string name="PasswordHint">Must start with a Capital</string>
+    <string name="reEnterPass">Please re-enter password</string>
+    <string name="email">Email Address</string>
+    <string name="emailHint">Please enter your Email</string>
+    <string name="forgotpassword">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="msg">Request sent</string>
+	<string name="msg2">Not implemented</string>
+
+    <string name="type_prompt">Choose a Log In type</string>
+    <string-array name="Login_Type">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+        <string name="Options">Please choose an option</string>
+        <string name="Forgotemail">Please enter your email</string>
+        <string name="next">Next</string>
+        <string name="listOfPatients">List Of Patients</string>
+        <string name="doctorRequest">Doctor Request</string>
+        <string name="patient1">Patient 1</string>
+        <string name="patient2">Patient 2</string>
+        <string name="patient3">Patient 3</string>
+        <string name="patient4">Patient 4</string>
+        <string name="Patient5">Patient 5</string>
+        <string name="patientName">Patient Full Name</string>
+        <string name="conditions">Conditions</string>
+        <string name="pastAppoitments">Past apoitments</string>
+        <string name="notes">Notes</string>
+        <string name="RequestAppoitment">Request Appoitment</string>
+        <string name="results">Results of tests taken in a simplified form</string>
+        <string name="goals">Goals</string>
+        <string name="currBP">Current Blood pressure</string>
+        <string name="GoalBP">Goal Blood Pressure</string>
+        <string name="AddGoal">Add Goal</string>
+        <string name="q1">q1</string>
+        <string name="a1">a1</string>
+        <string name="q2">q2</string>
+        <string name="a2">a2</string>
+        <string name="createdBy">Created By: Mitch McCormack, Lynn Haoran Li, Kiko Blake, Hedayat Tabesh</string>
+        <string name="moreINFO">More Information here</string>
+
+</resources>
